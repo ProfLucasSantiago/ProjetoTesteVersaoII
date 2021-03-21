@@ -3,8 +3,6 @@
 Objetivo: Disponibilizar uma interface para o usuário efetuar consultas de CEP.
 
 
-Tabela de conteúdos
-=================
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Xampp](https://www.apachefriends.org/pt_br/index.html). 
