@@ -29,10 +29,6 @@ main{
     margin-bottom: 20px;
 }
 
-/*.row div{
-    display: flex;
-    justify-content: center;
-}*/
 .row {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
