@@ -1,4 +1,4 @@
-# Aplicação .php para conulta de CEP
+# Aplicação .php para consulta de CEP
 
 Objetivo: Disponibilizar uma interface para o usuário efetuar consultas de CEP.
 
